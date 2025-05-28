@@ -180,7 +180,7 @@ const AuthModal = ({open, handleClose, isSignUp = false}) => {
                                 <Grow in={open} timeout={800}>
                                     <Box
                                         sx={{
-                                            backgroundImage: 'url("/storage/images/signIn-background.webp")',
+                                            backgroundImage: 'url("https://media.printler.com/media/photo/191630-4_400x400.jpg")',
                                             backgroundSize: "cover",
                                             backgroundPosition: "center",
                                             borderRadius: 2,
