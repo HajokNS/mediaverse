@@ -180,7 +180,7 @@ const AuthModal = ({open, handleClose, isSignUp = false}) => {
                                 <Grow in={open} timeout={800}>
                                     <Box
                                         sx={{
-                                            backgroundImage: 'url("https://i.pinimg.com/236x/80/b0/87/80b087c2124fc4a572cb75b19c5afc56.jpg")',
+                                            backgroundImage: 'url("https://i.pinimg.com/736x/ec/03/0b/ec030bc7b1cee72e64afb65fda99d123.jpg")',
                                             backgroundSize: "cover",
                                             backgroundPosition: "center",
                                             borderRadius: 2,
