@@ -3,6 +3,7 @@
 namespace App\Providers;
 
 use App\Services\Files\FileService;
+use Illuminate\Support\Facades\URL;
 use Illuminate\Support\Facades\Broadcast;
 use Illuminate\Support\ServiceProvider;
 
